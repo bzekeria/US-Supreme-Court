@@ -1,0 +1,16 @@
+name,birth_date,birth_st,gender,race,religion,state,party,president,senate_aye,senate_nay,term_start,term_end,death_date
+John Paul Stevens,1920-04-20,IL,M,White,Protestant,IL,Republican,Gerald Ford,98,0,1975-12-19,2010-06-30,2019-07-16
+Sandra Day O’Conner,1930-03-26,TX,F,White,Episcopalian,AZ,Republican,Ronald Reagan,99,0,1981-09-25,2006-01-31,
+Antonin Scalia,1936-03-11,NJ,M,White,Roman Catholic,VA,Republican,Ronald Reagan,98,0,1986-09-26,2016-02-13,2016-02-13
+Anthony Kennedy,1936-07-23,CA,M,White,Roman Catholic,CA,Republican,Ronald Reagan,97,0,1988-02-18,2018-07-31,
+David Souter,1939-09-17,MA,M,White,Episcopalian,NH,Republican,George H.W. Bush,90,9,1990-10-09,2009-06-30,
+Clarence Thomas,1948-06-23,GA,M,Black,Roman Catholic,GA,Republican,George H.W. Bush,52,48,1991-10-23,,
+Ruth Bader Ginsburg,1933-03-15,NY,F,White,Jewish,NY,Democrat,Bill Clinton,96,3,1993-08-10,2020-09-18,2020-09-18
+Stephen Breyer,1938-08-15,CA,M,White,Jewish,MA,Democrat,Bill Clinton,87,9,1994-08-03,,
+John Roberts,1955-01-27,NY,M,White,Roman Catholic,MD,Republican,George W. Bush,78,22,2005-09-29,,
+Samuel Alito,1950-04-01,NJ,M,White,Roman Catholic,NJ,Republican,George W. Bush,58,42,2006-01-31,,
+Sonia Sotomayor,1954-06-25,NY,F,Hispanic,Roman Catholic,NY,Democrat,Barack Obama,68,31,2009-09-09,,
+Elena Kagan,1960-04-08,NY,F,White,Jewish,MA,Democrat,Barack Obama,63,37,2010-08-07,,
+Neil Gorsuch,1967-08-29,CO,M,White,Episcopalian,CO,Republican,Donald Trump,54,45,2017-04-10,,
+Brett Kavanaugh,1965-02-12,DC,M,White,Roman Catholic,MD,Republican,Donald Trump,50,48,2018-10-06,,
+Amy Coney Barrett,1972-01-28,LA,F,White,Roman Catholic,IN,Republican,Donald Trump,52,48,2020-10-27,,
