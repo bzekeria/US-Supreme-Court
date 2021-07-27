@@ -4,7 +4,7 @@ Analysis of the US Supreme Court
      1. "Supreme Court Justices- Roberts Court" (Thursday May 20, 2021)
           - Basic pandas functions (data cleaning & descriptive statistics)
  - Demographics
-     1. "supreme_data.csv" original dataset from [Kaggle- Supreme Court Demographic Database](https://www.kaggle.com/rlweath/supreme-court-demographic-database)
+     1. "supreme_data.csv" original dataset from [Kaggle: Supreme Court Demographic Database](https://www.kaggle.com/rlweath/supreme-court-demographic-database)
      2. "supreme_data_revised.csv" revised dataset from the notebook below
      3. "Supreme Court Demgraphics Part 1 (Data Cleaning)" (Tuesday July 27, 2021)
           - [Interactive viewing](https://nbviewer.jupyter.org/github/bzekeria/US-Supreme-Court/blob/main/Demographics/Supreme%20Court%20Demographics%20Part%201%20%28Data%20Cleaning%29.ipynb)
