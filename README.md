@@ -7,5 +7,7 @@ Analysis of the US Supreme Court
      1. "Supreme Court Demgraphics Part 1 (Data Cleaning)" (Tuesday July 27, 2021)
           - User defined functions to convert data values, implementing various built-in methods, list comprehension
           - Expanded on the original datset to conduct future analysis
+     2. "Supreme Court Demgraphics Part 2 (EDA)" (TBA)
+     3. "Supreme Court Demgraphics Part 3 (Statistical Analysis)" (TBA)
 
 **beginner to the world of data analytics**
