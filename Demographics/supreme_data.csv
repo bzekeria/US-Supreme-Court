@@ -1,0 +1,118 @@
+,name,birth_date,birth_st,gender,race,religion,state,party,president,senate_aye,senate_nay,term_start,term_end,death_date
+1,"Jay, John",1745-12-12,NY,M,White,episcopalian,NY,Federalist,1,,,1789-10-19,1795-06-29,1829-05-17
+2,"Rutledge, John",1739-09-18,SC,M,White,episcopalian,SC,Federalist,1,,,1790-02-15,1791-03-05,1800-07-18
+3,"Cushing, William",1732-03-01,MA,M,White,congregationalist,MA,Federalist,1,,,1790-02-02,1810-09-13,1810-09-13
+4,"Wilson, James",1742-09-14,,M,White,episcopalian,PA,Federalist,1,,,1789-10-05,1798-08-21,1798-08-21
+5,"Blair, John, Jr.",1732-04-17,VA,M,White,episcopalian,VA,Federalist,1,,,1790-02-02,1796-01-27,1800-08-31
+6,"Iredell, James",1751-10-05,,M,White,episcopalian,NC,Federalist,1,,,1790-05-12,1799-10-20,1799-10-20
+7,"Johnson, Thomas",1732-11-04,MD,M,White,episcopalian,MD,Federalist,1,,,1791-09-19,1793-01-16,1819-10-26
+8,"Paterson, William",1745-12-24,,M,White, presbyterian,NJ,Federalist,1,,,1793-03-11,1806-09-09,1806-09-09
+9,"Rutledge, John",1739-09-18,SC,M,White,episcopalian,SC,Federalist,1,,,1795-08-12,1795-12-15,1800-07-18
+10,"Chase, Samuel",1741-04-17,MD,M,White,episcopalian,MD,Federalist,1,,,1796-02-04,1811-06-19,1811-06-19
+11,"Ellsworth, Oliver",1745-04-29,CT,M,White,congregationalist,CT,Federalist,1,21,1,1796-03-08,1800-12-15,1807-11-26
+12,"Washington, Bushrod",1762-06-05,VA,M,White,episcopalian,VA,Federalist,2,,,1798-11-09,1829-11-26,1829-11-26
+13,"Moore, Alfred",1755-05-21,NC,M,White,episcopalian,NC,Federalist,2,,,1800-04-21,1804-01-26,1810-10-15
+14,"Marshall, John",1755-09-24,VA,M,White,episcopalian,VA,Federalist,2,,,1801-02-04,1835-07-06,1835-07-06
+15,"Johnson, William",1771-12-27,SC,M,White, presbyterian,SC,Democratic Republican,3,,,1804-05-07,1834-08-04,1834-08-04
+16,"Livingston, Henry Brockholst",1757-11-25,NY,M,White, presbyterian,NY,Democratic Republican,3,,,1807-01-20,1823-03-18,1823-03-18
+17,"Todd, Thomas",1765-01-23,VA,M,White, presbyterian,KY,Democratic Republican,3,,,1807-05-04,1826-02-07,1826-02-07
+18,"Duvall, Gabriel",1752-12-06,MD,M,White,episcopalian,MD,Democratic Republican,4,,,1811-11-23,1835-01-14,1844-03-06
+19,"Story, Joseph",1779-09-18,MA,M,White, unitarian,MA,Democratic Republican,4,,,1812-02-03,1845-09-10,1845-09-10
+20,"Thompson, Smith",1768-01-17,NY,M,White, presbyterian,NY,Democratic Republican,5,,,1823-09-01,1843-12-18,1843-12-18
+21,"Trimble, Robert",1776-11-17,VA,M,White, presbyterian,KY,Democratic Republican,6,27,5,1826-06-16,1828-08-25,1828-08-25
+22,"McLean, John",1785-03-11,NJ,M,White,methodist,OH,Democrat,7,,,1830-01-11,1861-04-04,1861-04-04
+23,"Baldwin, Henry",1780-01-14,CT,M,White,episcopalian,PA,Democrat,7,41,2,1830-01-18,1844-04-21,1844-04-21
+24,"Wayne, James Moore",1790-01-01,GA,M,White,episcopalian,GA,Democrat,7,,,1835-01-14,1867-07-05,1867-07-05
+25,"Taney, Roger Brooke",1777-03-17,MD,M,White, roman catholic,MD,Democrat,7,29,15,1836-03-28,1864-10-12,1864-10-12
+26,"Barbour, Philip Pendelton",1783-05-25,VA,M,White,episcopalian,VA,Democrat,7,30,11,1836-05-12,1841-02-25,1841-02-25
+27,"Catron, John",1786-01-07,PA,M,White, presbyterian,TN,Democrat,7,28,15,1837-05-01,1865-05-30,1865-05-30
+28,"McKinley, John",1780-05-01,VA,M,White, protestant,AL,Democrat,8,,,1837-09-25,1852-07-19,1852-07-19
+29,"Daniel, Peter Vivian",1784-04-24,VA,M,White,episcopalian,VA,Democrat,8,22,5,1842-01-10,1860-05-31,1860-05-31
+30,"Nelson, Samuel",1792-11-10,NY,M,White,episcopalian,NY,Democrat,10,,,1845-02-27,1872-11-28,1873-12-13
+31,"Woodbury, Levi",1789-12-22,NH,M,White, presbyterian,NH,Democrat,11,,,1845-09-23,1851-09-04,1851-09-04
+32,"Grier, Robert Cooper",1794-03-05,PA,M,White, presbyterian,PA,Democrat,11,,,1846-08-10,1870-01-31,1870-09-25
+33,"Curtis, Benjamin Robbins",1809-11-04,MA,M,White,episcopalian,MA,Whig,13,,,1851-10-10,1857-09-30,1874-09-15
+34,"Campbell, John Archibald",1811-06-24,GA,M,White,episcopalian,AL,Democrat,14,,,1853-04-11,1861-04-30,1889-03-12
+35,"Clifford, Nathan",1803-08-18,NH,M,White, unitarian,ME,Democrat,15,26,23,1858-01-21,1881-07-25,1881-07-25
+36,"Swayne, Noah Haynes",1804-12-07,VA,M,White, quaker,OH,Republican,16,38,1,1862-01-27,1881-01-24,1884-06-08
+37,"Miller, Samuel Freeman",1816-04-05,KY,M,White, unitarian,IA,Republican,16,,,1862-07-21,1890-10-13,1890-10-13
+38,"Davis, David",1815-03-09,MD,M,White, presbyterian,IL,Republican,16,,,1862-10-17,1877-03-04,1886-06-26
+39,"Field, Stephen Johnson",1816-11-04,CT,M,White,episcopalian,CA,Democrat,16,,,1863-05-20,1897-12-01,1899-04-09
+40,"Chase, Salmon Portland",1808-01-13,NH,M,White,episcopalian,OH,Republican,16,,,1864-12-15,1873-05-07,1873-05-07
+41,"Strong, William",1808-05-06,CT,M,White, presbyterian,PA,Republican,18,,,1870-03-14,1880-12-14,1895-08-19
+42,"Bradley, Joseph P.",1813-03-14,NY,M,White,dutch reform,NJ,Republican,18,46,9,1870-03-23,1892-01-22,1892-01-22
+43,"Hunt, Ward",1810-06-14,NY,M,White,episcopalian,NY,Republican,18,,,1873-01-09,1882-01-27,1886-03-24
+44,"Waite, Morrison Remick",1816-11-29,CT,M,White,episcopalian,OH,Republican,18,63,0,1874-03-04,1888-03-23,1888-03-23
+45,"Harlan, John Marshall (I)",1833-06-01,KY,M,White, presbyterian,KY,Republican,19,,,1877-12-10,1911-10-14,1911-10-14
+46,"Woods, William Burnham",1824-08-03,OH,M,White, protestant,GA,Republican,19,39,8,1881-01-05,1887-05-14,1887-05-14
+47,"Matthews, Stanley",1824-07-21,OH,M,White, presbyterian,OH,Republican,20,24,23,1881-05-17,1889-03-22,1889-03-22
+48,"Gray, Horace",1828-03-24,MA,M,White, unitarian,MA,Republican,21,51,5,1882-01-09,1902-09-15,1902-09-15
+49,"Blatchford, Samuel",1820-03-09,NY,M,White,episcopalian,NY,Republican,21,,,1882-04-03,1893-07-07,1893-07-07
+50,"Lamar, Lucius Quintus Cincinnatus",1825-09-17,GA,M,White,methodist,MS,Democrat,22,32,28,1888-01-18,1893-01-23,1893-01-23
+51,"Fuller, Melville Weston",1833-02-11,ME,M,White,episcopalian,IL,Democrat,22,41,20,1888-10-08,1910-07-04,1910-07-04
+52,"Brewer, David Josiah",1837-06-20,,M,White,congregationalist,KS,Republican,23,53,11,1890-01-06,1910-03-28,1910-03-28
+53,"Brown, Henry Billings",1836-03-02,MA,M,White,congregationalist,MI,Republican,23,,,1891-01-05,1906-05-28,1913-09-04
+54,"Shiras, George, Jr.",1832-01-26,PA,M,White, presbyterian,PA,Republican,23,,,1892-10-10,1903-02-23,1924-08-02
+55,"Jackson, Howell Edmunds",1832-04-08,TN,M,White,baptist,TN,Democrat,23,,,1893-03-04,1895-08-08,1895-08-08
+56,"White, Edward Douglass",1845-11-03,LA,M,White, roman catholic,LA,Democrat,24,,,1894-03-12,1921-05-19,1921-05-19
+57,"Peckham, Rufus Wheeler",1838-11-08,NY,M,White,episcopalian,NY,Democrat,24,,,1896-01-06,1909-10-24,1909-10-24
+58,"McKenna, Joseph",1843-08-10,PA,M,White, roman catholic,CA,Republican,25,,,1898-01-26,1925-01-05,1926-11-21
+59,"Holmes, Oliver Wendell, Jr",1841-03-08,MA,M,White, unitarian,MA,Republican,26,,,1902-12-04,1932-01-12,1935-03-06
+60,"Day, William Rufus",1849-04-07,OH,M,White,lutheran,OH,Republican,26,,,1903-03-02,1922-11-13,1923-07-09
+61,"Moody, William Henry",1853-12-23,MA,M,White,episcopalian,MA,Republican,26,,,1906-12-17,1910-11-20,1917-07-02
+62,"Lurton, Horace Harmon",1844-02-26,KY,M,White,episcopalian,TN,Democrat,27,,,1910-01-03,1914-07-12,1914-07-12
+63,"Hughes, Charles Evans",1862-04-11,NY,M,White,baptist,NY,Republican,27,,,1910-10-10,1916-06-10,1948-08-27
+64,"Van Devanter, Willis",1859-04-17,IN,M,White,episcopalian,WY,Republican,27,,,1911-01-03,1937-06-02,1941-02-08
+65,"Lamar, Joseph Rucker",1857-10-14,GA,M,White,disciples of christ,GA,Democrat,27,,,1911-01-03,1916-01-02,1916-01-02
+66,"Pitney, Mahlon",1858-02-05,NJ,M,White, presbyterian,NJ,Republican,27,50,26,1912-03-18,1922-12-31,1924-12-09
+67,"McReynolds, James Clark",1862-02-03,KY,M,White,disciples of christ,TN,Democrat,28,44,6,1914-10-12,1941-01-31,1946-08-24
+68,"Brandeis, Louis Dembitz",1856-11-13,KY,M,White,jewish,MA,Republican,28,47,22,1916-06-05,1939-02-13,1941-10-05
+69,"Clarke, John Hessin",1857-09-18,OH,M,White, protestant,OH,Democrat,28,,,1916-10-09,1922-09-18,1945-03-22
+70,"Taft, William Howard",1857-09-15,OH,M,White, unitarian,CT,Republican,29,60,4,1921-07-11,1930-02-03,1930-03-08
+71,"Sutherland, George",1862-03-25,,M,White,episcopalian,UT,Republican,29,,,1922-10-02,1938-01-17,1942-07-18
+72,"Butler, Pierce",1866-03-17,MN,M,White, roman catholic,MN,Democrat,29,61,8,1923-01-02,1939-11-16,1939-11-16
+73,"Sanford, Edward Terry",1865-07-23,TN,M,White,episcopalian,TN,Republican,29,,,1923-02-19,1930-03-08,1930-03-08
+74,"Stone, Harlan Fiske",1872-10-11,NH,M,White,episcopalian,NY,Republican,30,71,6,1925-03-02,1946-04-22,1946-04-22
+75,"Hughes, Charles Evans",1862-04-11,NY,M,White,baptist,NY,Republican,31,52,26,1930-02-24,1941-07-01,1948-08-27
+76,"Roberts, Owen Josephus",1875-05-02,PA,M,White,episcopalian,PA,Republican,31,,,1930-06-02,1945-07-31,1955-05-17
+77,"Cardozo, Benjamin Nathan",1870-05-24,NY,M,White,jewish,NY,Democrat,31,,,1932-03-14,1938-07-09,1938-07-09
+78,"Black, Hugo Lafayette",1886-02-27,AL,M,White,baptist,AL,Democrat,32,63,16,1937-08-19,1971-09-17,1971-09-25
+79,"Reed, Stanley Forman",1884-12-31,KY,M,White, protestant,KY,Democrat,32,,,1938-01-31,1957-02-25,1980-04-02
+80,"Frankfurter, Felix",1882-11-15,,M,White,jewish,MA,Independent,32,,,1939-01-30,1962-08-28,1965-02-22
+81,"Douglas, William Orville",1898-10-16,MN,M,White, presbyterian,CT,Democrat,32,62,4,1939-04-17,1975-11-12,1980-01-19
+82,"Murphy, Francis (Frank) William",1890-04-13,MI,M,White, roman catholic,MI,Democrat,32,,,1940-02-05,1949-07-19,1949-07-19
+83,"Byrnes, James Frances",1879-05-02,SC,M,White,episcopalian,SC,Democrat,32,,,1941-07-08,1942-10-03,1972-04-09
+84,"Jackson, Robert Houghwout",1892-02-13,PA,M,White,episcopalian,NY,Democrat,32,,,1941-07-11,1954-10-09,1954-10-09
+85,"Rutledge, Wiley Blount",1894-07-20,KY,M,White, unitarian,IA,Democrat,32,,,1943-02-15,1949-09-10,1949-09-10
+86,"Burton, Harold Hitz",1888-06-22,MA,M,White, unitarian,OH,Republican,33,,,1945-10-01,1958-10-13,1964-10-28
+87,"Vinson, Fred Moore",1890-01-22,KY,M,White,methodist,KY,Democrat,33,,,1946-06-24,1953-09-08,1953-09-08
+88,"Clark, Tom Campbell",1899-09-23,TX,M,White, presbyterian,TX,Democrat,33,73,8,1949-08-24,1967-06-12,1977-06-13
+89,"Minton, Sherman",1890-10-20,IN,M,White, protestant,IN,Democrat,33,48,16,1949-10-12,1956-10-15,1965-04-09
+90,"Warren, Earl",1891-03-19,CA,M,White, protestant,CA,Republican,34,,,1953-10-05,1969-06-23,1974-07-09
+91,"Harlan, John Marshall (II)",1899-05-20,IL,M,White, presbyterian,NY,Republican,34,71,11,1955-03-28,1971-09-23,1971-12-29
+92,"Brennan, William Joseph, Jr.",1906-04-25,NJ,M,White, roman catholic,NJ,Democrat,34,,,1956-10-16,1990-07-20,1997-07-24
+93,"Whittaker, Charles Evans",1901-02-22,KS,M,White,methodist,MO,Republican,34,,,1957-03-25,1962-03-31,1973-11-26
+94,"Stewart, Potter",1915-01-23,MI,M,White,episcopalian,OH,Republican,34,,,1958-10-14,1981-07-03,1985-12-07
+95,"White, Byron Raymond",1917-06-08,CO,M,White,episcopalian,CO,Democrat,35,,,1962-04-16,1993-06-28,2002-04-15
+96,"Goldberg, Arthur Joseph",1908-08-08,IL,M,White,jewish,IL,Democrat,35,,,1962-10-01,1965-07-25,1990-01-19
+97,"Fortas, Abe",1910-06-19,TN,M,White,jewish,TN,Democrat,36,,,1965-10-04,1969-05-14,1982-04-05
+98,"Marshall, Thurgood",1908-07-02,MD,M,Black,episcopalian,NY,Democrat,36,69,11,1967-10-02,1991-10-01,1993-01-24
+99,"Burger, Warren Earl",1907-09-17,MN,M,White, presbyterian,VA,Republican,37,74,3,1969-06-23,1986-09-26,1995-06-25
+100,"Blackmun, Harry Andrew",1908-11-12,IL,M,White,methodist,MN,Republican,37,94,0,1970-06-09,1994-08-03,1999-03-04
+101,"Powell, Lewis Franklin, Jr.",1907-09-19,VA,M,White, presbyterian,VA,Democrat,37,89,1,1972-01-07,1987-06-26,1998-08-25
+102,"Rehnquist, William Hubbs",1924-10-01,WI,M,White,lutheran,AZ,Republican,37,68,26,1972-01-07,2005-09-03,2005-09-03
+103,"Stevens, John Paul",1920-04-20,IL,M,White, protestant,IL,Republican,38,98,0,1975-12-19,2010-06-30,2019-07-16
+104,"O'Connor, Sandra Day",1930-03-26,TX,F,White,episcopalian,AZ,Republican,40,99,0,1981-09-25,2006-01-31,
+105,"Scalia, Antonin",1936-03-11,NJ,M,White, roman catholic,VA,Republican,40,98,0,1986-09-26,2016-02-13,2016-02-13
+106,"Kennedy, Anthony McLeod",1936-07-23,CA,M,White, roman catholic,CA,Republican,40,97,0,1988-02-18,2018-07-31,
+107,"Souter, David H.",1939-09-17,MA,M,White,episcopalian,NH,Republican,41,90,9,1990-10-09,2009-06-30,
+108,"Thomas, Clarence",1948-06-23,GA,M,Black, roman catholic,GA,Republican,41,52,48,1991-10-23,,
+109,"Ginsburg, Ruth Bader",1933-03-15,NY,F,White,jewish,NY,Democrat,42,96,3,1993-08-10,2020-09-18,2020-09-18
+110,"Breyer, Stephen G.",1938-08-15,CA,M,White,jewish,MA,Democrat,42,87,9,1994-08-03,,
+111,"Roberts, John G., Jr.",1955-01-27,NY,M,White, roman catholic,MD,Republican,43,78,22,2005-09-29,,
+112,"Alito, Samuel A., Jr.",1950-04-01,NJ,M,White, roman catholic,NJ,Republican,43,58,42,2006-01-31,,
+113,"Sotomayor, Sonia Maria",1954-06-25,NY,F,Hispanic, roman catholic,NY,Democrat,44,68,31,2009-09-09,,
+114,"Kagan, Elena",1960-04-08,NY,F,White,jewish,MA,Democrat,44,63,37,2010-08-07,,
+115,"Gorsuch, Neil McGill",1967-08-29,CO,M,White,episcopalian,CO,Republican,45,54,45,2017-04-10,,
+116,"Kavanaugh, Brett Michael",1965-02-12,DC,M,White, roman catholic,MD,Republican,45,50,48,2018-10-06,,
+117,Amy Coney Barrett,1972-01-28,LA,F,White,roman catholic,IN,Republican,45,52,48,2020-10-27,,
