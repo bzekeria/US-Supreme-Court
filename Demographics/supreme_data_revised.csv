@@ -1,0 +1,118 @@
+name,birth_date,birth_year,birth_month,birth_day,birth_st,gender,race,religion,state,party,president,senate_aye,senate_nay,term_start,term_start_year,term_start_month,term_start_day,term_end,term_end_year,term_end_month,term_end_day,death_date,death_year,death_month,death_day
+John Jay,1745-12-12,1745,December,12,New York,Male,White,Episcopalian,New York,Federalist,George Washington,,,1789-10-19,1789,October,19,1795-06-29,1795,June,29,1829-05-17,1829,5,17
+John Rutledge,1739-09-18,1739,September,18,South Carolina,Male,White,Episcopalian,South Carolina,Federalist,George Washington,,,1790-02-15,1790,February,15,1791-03-05,1791,March,5,1800-07-18,1800,7,18
+William Cushing,1732-03-01,1732,March,1,Massachusetts,Male,White,Congregationalist,Massachusetts,Federalist,George Washington,,,1790-02-02,1790,February,2,1810-09-13,1810,September,13,1810-09-13,1810,9,13
+James Wilson,1742-09-14,1742,September,14,nan,Male,White,Episcopalian,Pennsylvania,Federalist,George Washington,,,1789-10-05,1789,October,5,1798-08-21,1798,August,21,1798-08-21,1798,8,21
+John Blair,1732-04-17,1732,April,17,Virginia,Male,White,Episcopalian,Virginia,Federalist,George Washington,,,1790-02-02,1790,February,2,1796-01-27,1796,January,27,1800-08-31,1800,8,31
+James Iredell,1751-10-05,1751,October,5,nan,Male,White,Episcopalian,North Carolina,Federalist,George Washington,,,1790-05-12,1790,May,12,1799-10-20,1799,October,20,1799-10-20,1799,10,20
+Thomas Johnson,1732-11-04,1732,November,4,Maryland,Male,White,Episcopalian,Maryland,Federalist,George Washington,,,1791-09-19,1791,September,19,1793-01-16,1793,January,16,1819-10-26,1819,10,26
+William Paterson,1745-12-24,1745,December,24,nan,Male,White, Presbyterian,New Jersey,Federalist,George Washington,,,1793-03-11,1793,March,11,1806-09-09,1806,September,9,1806-09-09,1806,9,9
+John Rutledge,1739-09-18,1739,September,18,South Carolina,Male,White,Episcopalian,South Carolina,Federalist,George Washington,,,1795-08-12,1795,August,12,1795-12-15,1795,December,15,1800-07-18,1800,7,18
+Samuel Chase,1741-04-17,1741,April,17,Maryland,Male,White,Episcopalian,Maryland,Federalist,George Washington,,,1796-02-04,1796,February,4,1811-06-19,1811,June,19,1811-06-19,1811,6,19
+Oliver Ellsworth,1745-04-29,1745,April,29,Connecticut,Male,White,Congregationalist,Connecticut,Federalist,George Washington,21.0,1.0,1796-03-08,1796,March,8,1800-12-15,1800,December,15,1807-11-26,1807,11,26
+Bushrod Washington,1762-06-05,1762,June,5,Virginia,Male,White,Episcopalian,Virginia,Federalist,John Adams,,,1798-11-09,1798,November,9,1829-11-26,1829,November,26,1829-11-26,1829,11,26
+Alfred Moore,1755-05-21,1755,May,21,North Carolina,Male,White,Episcopalian,North Carolina,Federalist,John Adams,,,1800-04-21,1800,April,21,1804-01-26,1804,January,26,1810-10-15,1810,10,15
+John Marshall,1755-09-24,1755,September,24,Virginia,Male,White,Episcopalian,Virginia,Federalist,John Adams,,,1801-02-04,1801,February,4,1835-07-06,1835,July,6,1835-07-06,1835,7,6
+William Johnson,1771-12-27,1771,December,27,South Carolina,Male,White, Presbyterian,South Carolina,Democratic Republican,Thomas Jefferson,,,1804-05-07,1804,May,7,1834-08-04,1834,August,4,1834-08-04,1834,8,4
+Henry Livingston,1757-11-25,1757,November,25,New York,Male,White, Presbyterian,New York,Democratic Republican,Thomas Jefferson,,,1807-01-20,1807,January,20,1823-03-18,1823,March,18,1823-03-18,1823,3,18
+Thomas Todd,1765-01-23,1765,January,23,Virginia,Male,White, Presbyterian,Kentucky,Democratic Republican,Thomas Jefferson,,,1807-05-04,1807,May,4,1826-02-07,1826,February,7,1826-02-07,1826,2,7
+Gabriel Duvall,1752-12-06,1752,December,6,Maryland,Male,White,Episcopalian,Maryland,Democratic Republican,James Madison,,,1811-11-23,1811,November,23,1835-01-14,1835,January,14,1844-03-06,1844,3,6
+Joseph Story,1779-09-18,1779,September,18,Massachusetts,Male,White, Unitarian,Massachusetts,Democratic Republican,James Madison,,,1812-02-03,1812,February,3,1845-09-10,1845,September,10,1845-09-10,1845,9,10
+Smith Thompson,1768-01-17,1768,January,17,New York,Male,White, Presbyterian,New York,Democratic Republican,James Monroe,,,1823-09-01,1823,September,1,1843-12-18,1843,December,18,1843-12-18,1843,12,18
+Robert Trimble,1776-11-17,1776,November,17,Virginia,Male,White, Presbyterian,Kentucky,Democratic Republican,John Quincy Adams,27.0,5.0,1826-06-16,1826,June,16,1828-08-25,1828,August,25,1828-08-25,1828,8,25
+John McLean,1785-03-11,1785,March,11,New Jersey,Male,White,Methodist,Ohio,Democrat,Andrew Jackson,,,1830-01-11,1830,January,11,1861-04-04,1861,April,4,1861-04-04,1861,4,4
+Henry Baldwin,1780-01-14,1780,January,14,Connecticut,Male,White,Episcopalian,Pennsylvania,Democrat,Andrew Jackson,41.0,2.0,1830-01-18,1830,January,18,1844-04-21,1844,April,21,1844-04-21,1844,4,21
+James Wayne,1790-01-01,1790,January,1,Georgia,Male,White,Episcopalian,Georgia,Democrat,Andrew Jackson,,,1835-01-14,1835,January,14,1867-07-05,1867,July,5,1867-07-05,1867,7,5
+Roger Taney,1777-03-17,1777,March,17,Maryland,Male,White, Roman Catholic,Maryland,Democrat,Andrew Jackson,29.0,15.0,1836-03-28,1836,March,28,1864-10-12,1864,October,12,1864-10-12,1864,10,12
+Philip Barbour,1783-05-25,1783,May,25,Virginia,Male,White,Episcopalian,Virginia,Democrat,Andrew Jackson,30.0,11.0,1836-05-12,1836,May,12,1841-02-25,1841,February,25,1841-02-25,1841,2,25
+John Catron,1786-01-07,1786,January,7,Pennsylvania,Male,White, Presbyterian,Tennessee,Democrat,Andrew Jackson,28.0,15.0,1837-05-01,1837,May,1,1865-05-30,1865,May,30,1865-05-30,1865,5,30
+John McKinley,1780-05-01,1780,May,1,Virginia,Male,White, Protestant,Alabama,Democrat,Martin Van Buren,,,1837-09-25,1837,September,25,1852-07-19,1852,July,19,1852-07-19,1852,7,19
+Peter Daniel,1784-04-24,1784,April,24,Virginia,Male,White,Episcopalian,Virginia,Democrat,Martin Van Buren,22.0,5.0,1842-01-10,1842,January,10,1860-05-31,1860,May,31,1860-05-31,1860,5,31
+Samuel Nelson,1792-11-10,1792,November,10,New York,Male,White,Episcopalian,New York,Democrat,John Tyler,,,1845-02-27,1845,February,27,1872-11-28,1872,November,28,1873-12-13,1873,12,13
+Levi Woodbury,1789-12-22,1789,December,22,New Hampshire,Male,White, Presbyterian,New Hampshire,Democrat,James Polk,,,1845-09-23,1845,September,23,1851-09-04,1851,September,4,1851-09-04,1851,9,4
+Robert Grier,1794-03-05,1794,March,5,Pennsylvania,Male,White, Presbyterian,Pennsylvania,Democrat,James Polk,,,1846-08-10,1846,August,10,1870-01-31,1870,January,31,1870-09-25,1870,9,25
+Benjamin Curtis,1809-11-04,1809,November,4,Massachusetts,Male,White,Episcopalian,Massachusetts,Whig,Millard Fillmore,,,1851-10-10,1851,October,10,1857-09-30,1857,September,30,1874-09-15,1874,9,15
+John Campbell,1811-06-24,1811,June,24,Georgia,Male,White,Episcopalian,Alabama,Democrat,Franklin Pierce,,,1853-04-11,1853,April,11,1861-04-30,1861,April,30,1889-03-12,1889,3,12
+Nathan Clifford,1803-08-18,1803,August,18,New Hampshire,Male,White, Unitarian,Maine,Democrat,James Buchanan,26.0,23.0,1858-01-21,1858,January,21,1881-07-25,1881,July,25,1881-07-25,1881,7,25
+Noah Swayne,1804-12-07,1804,December,7,Virginia,Male,White, Quaker,Ohio,Republican,Abraham Lincoln,38.0,1.0,1862-01-27,1862,January,27,1881-01-24,1881,January,24,1884-06-08,1884,6,8
+Samuel Miller,1816-04-05,1816,April,5,Kentucky,Male,White, Unitarian,Iowa,Republican,Abraham Lincoln,,,1862-07-21,1862,July,21,1890-10-13,1890,October,13,1890-10-13,1890,10,13
+David Davis,1815-03-09,1815,March,9,Maryland,Male,White, Presbyterian,Illinois,Republican,Abraham Lincoln,,,1862-10-17,1862,October,17,1877-03-04,1877,March,4,1886-06-26,1886,6,26
+Stephen Field,1816-11-04,1816,November,4,Connecticut,Male,White,Episcopalian,California,Democrat,Abraham Lincoln,,,1863-05-20,1863,May,20,1897-12-01,1897,December,1,1899-04-09,1899,4,9
+Salmon Chase,1808-01-13,1808,January,13,New Hampshire,Male,White,Episcopalian,Ohio,Republican,Abraham Lincoln,,,1864-12-15,1864,December,15,1873-05-07,1873,May,7,1873-05-07,1873,5,7
+William Strong,1808-05-06,1808,May,6,Connecticut,Male,White, Presbyterian,Pennsylvania,Republican,Ulysses Grant,,,1870-03-14,1870,March,14,1880-12-14,1880,December,14,1895-08-19,1895,8,19
+Joseph Bradley,1813-03-14,1813,March,14,New York,Male,White,Dutch Reform,New Jersey,Republican,Ulysses Grant,46.0,9.0,1870-03-23,1870,March,23,1892-01-22,1892,January,22,1892-01-22,1892,1,22
+Ward Hunt,1810-06-14,1810,June,14,New York,Male,White,Episcopalian,New York,Republican,Ulysses Grant,,,1873-01-09,1873,January,9,1882-01-27,1882,January,27,1886-03-24,1886,3,24
+Morrison Waite,1816-11-29,1816,November,29,Connecticut,Male,White,Episcopalian,Ohio,Republican,Ulysses Grant,63.0,0.0,1874-03-04,1874,March,4,1888-03-23,1888,March,23,1888-03-23,1888,3,23
+John Harlan (I),1833-06-01,1833,June,1,Kentucky,Male,White, Presbyterian,Kentucky,Republican,Rutherford Hayes,,,1877-12-10,1877,December,10,1911-10-14,1911,October,14,1911-10-14,1911,10,14
+William Woods,1824-08-03,1824,August,3,Ohio,Male,White, Protestant,Georgia,Republican,Rutherford Hayes,39.0,8.0,1881-01-05,1881,January,5,1887-05-14,1887,May,14,1887-05-14,1887,5,14
+Stanley Matthews,1824-07-21,1824,July,21,Ohio,Male,White, Presbyterian,Ohio,Republican,James Garfield,24.0,23.0,1881-05-17,1881,May,17,1889-03-22,1889,March,22,1889-03-22,1889,3,22
+Horace Gray,1828-03-24,1828,March,24,Massachusetts,Male,White, Unitarian,Massachusetts,Republican,Chester Arthur,51.0,5.0,1882-01-09,1882,January,9,1902-09-15,1902,September,15,1902-09-15,1902,9,15
+Samuel Blatchford,1820-03-09,1820,March,9,New York,Male,White,Episcopalian,New York,Republican,Chester Arthur,,,1882-04-03,1882,April,3,1893-07-07,1893,July,7,1893-07-07,1893,7,7
+Lucius Lamar,1825-09-17,1825,September,17,Georgia,Male,White,Methodist,Mississippi,Democrat,Grover Cleveland,32.0,28.0,1888-01-18,1888,January,18,1893-01-23,1893,January,23,1893-01-23,1893,1,23
+Melville Fuller,1833-02-11,1833,February,11,Maine,Male,White,Episcopalian,Illinois,Democrat,Grover Cleveland,41.0,20.0,1888-10-08,1888,October,8,1910-07-04,1910,July,4,1910-07-04,1910,7,4
+David Brewer,1837-06-20,1837,June,20,nan,Male,White,Congregationalist,Kansas,Republican,Benjamin Harrison,53.0,11.0,1890-01-06,1890,January,6,1910-03-28,1910,March,28,1910-03-28,1910,3,28
+Henry Brown,1836-03-02,1836,March,2,Massachusetts,Male,White,Congregationalist,Michigan,Republican,Benjamin Harrison,,,1891-01-05,1891,January,5,1906-05-28,1906,May,28,1913-09-04,1913,9,4
+George Shiras,1832-01-26,1832,January,26,Pennsylvania,Male,White, Presbyterian,Pennsylvania,Republican,Benjamin Harrison,,,1892-10-10,1892,October,10,1903-02-23,1903,February,23,1924-08-02,1924,8,2
+Howell Jackson,1832-04-08,1832,April,8,Tennessee,Male,White,Baptist,Tennessee,Democrat,Benjamin Harrison,,,1893-03-04,1893,March,4,1895-08-08,1895,August,8,1895-08-08,1895,8,8
+Edward White,1845-11-03,1845,November,3,Louisiana,Male,White, Roman Catholic,Louisiana,Democrat,Grover Cleveland,,,1894-03-12,1894,March,12,1921-05-19,1921,May,19,1921-05-19,1921,5,19
+Rufus Peckham,1838-11-08,1838,November,8,New York,Male,White,Episcopalian,New York,Democrat,Grover Cleveland,,,1896-01-06,1896,January,6,1909-10-24,1909,October,24,1909-10-24,1909,10,24
+Joseph McKenna,1843-08-10,1843,August,10,Pennsylvania,Male,White, Roman Catholic,California,Republican,William McKinley,,,1898-01-26,1898,January,26,1925-01-05,1925,January,5,1926-11-21,1926,11,21
+Oliver Holmes,1841-03-08,1841,March,8,Massachusetts,Male,White, Unitarian,Massachusetts,Republican,Theodore Roosevelt,,,1902-12-04,1902,December,4,1932-01-12,1932,January,12,1935-03-06,1935,3,6
+William Day,1849-04-07,1849,April,7,Ohio,Male,White,Lutheran,Ohio,Republican,Theodore Roosevelt,,,1903-03-02,1903,March,2,1922-11-13,1922,November,13,1923-07-09,1923,7,9
+William Moody,1853-12-23,1853,December,23,Massachusetts,Male,White,Episcopalian,Massachusetts,Republican,Theodore Roosevelt,,,1906-12-17,1906,December,17,1910-11-20,1910,November,20,1917-07-02,1917,7,2
+Horace Lurton,1844-02-26,1844,February,26,Kentucky,Male,White,Episcopalian,Tennessee,Democrat,William Taft,,,1910-01-03,1910,January,3,1914-07-12,1914,July,12,1914-07-12,1914,7,12
+Charles Hughes,1862-04-11,1862,April,11,New York,Male,White,Baptist,New York,Republican,William Taft,,,1910-10-10,1910,October,10,1916-06-10,1916,June,10,1948-08-27,1948,8,27
+Willis Van Devanter,1859-04-17,1859,April,17,Indiana,Male,White,Episcopalian,Wyoming,Republican,William Taft,,,1911-01-03,1911,January,3,1937-06-02,1937,June,2,1941-02-08,1941,2,8
+Joseph Lamar,1857-10-14,1857,October,14,Georgia,Male,White,Disciples Of Christ,Georgia,Democrat,William Taft,,,1911-01-03,1911,January,3,1916-01-02,1916,January,2,1916-01-02,1916,1,2
+Mahlon Pitney,1858-02-05,1858,February,5,New Jersey,Male,White, Presbyterian,New Jersey,Republican,William Taft,50.0,26.0,1912-03-18,1912,March,18,1922-12-31,1922,December,31,1924-12-09,1924,12,9
+James McReynolds,1862-02-03,1862,February,3,Kentucky,Male,White,Disciples Of Christ,Tennessee,Democrat,Woodrow Wilson,44.0,6.0,1914-10-12,1914,October,12,1941-01-31,1941,January,31,1946-08-24,1946,8,24
+Louis Brandeis,1856-11-13,1856,November,13,Kentucky,Male,White,Jewish,Massachusetts,Republican,Woodrow Wilson,47.0,22.0,1916-06-05,1916,June,5,1939-02-13,1939,February,13,1941-10-05,1941,10,5
+John Clarke,1857-09-18,1857,September,18,Ohio,Male,White, Protestant,Ohio,Democrat,Woodrow Wilson,,,1916-10-09,1916,October,9,1922-09-18,1922,September,18,1945-03-22,1945,3,22
+William Taft,1857-09-15,1857,September,15,Ohio,Male,White, Unitarian,Connecticut,Republican,Warren Harding,60.0,4.0,1921-07-11,1921,July,11,1930-02-03,1930,February,3,1930-03-08,1930,3,8
+George Sutherland,1862-03-25,1862,March,25,nan,Male,White,Episcopalian,Utah,Republican,Warren Harding,,,1922-10-02,1922,October,2,1938-01-17,1938,January,17,1942-07-18,1942,7,18
+Pierce Butler,1866-03-17,1866,March,17,Minnesota,Male,White, Roman Catholic,Minnesota,Democrat,Warren Harding,61.0,8.0,1923-01-02,1923,January,2,1939-11-16,1939,November,16,1939-11-16,1939,11,16
+Edward Sanford,1865-07-23,1865,July,23,Tennessee,Male,White,Episcopalian,Tennessee,Republican,Warren Harding,,,1923-02-19,1923,February,19,1930-03-08,1930,March,8,1930-03-08,1930,3,8
+Harlan Stone,1872-10-11,1872,October,11,New Hampshire,Male,White,Episcopalian,New York,Republican,Calvin Coolidge,71.0,6.0,1925-03-02,1925,March,2,1946-04-22,1946,April,22,1946-04-22,1946,4,22
+Charles Hughes,1862-04-11,1862,April,11,New York,Male,White,Baptist,New York,Republican,Herbert Hoover,52.0,26.0,1930-02-24,1930,February,24,1941-07-01,1941,July,1,1948-08-27,1948,8,27
+Owen Roberts,1875-05-02,1875,May,2,Pennsylvania,Male,White,Episcopalian,Pennsylvania,Republican,Herbert Hoover,,,1930-06-02,1930,June,2,1945-07-31,1945,July,31,1955-05-17,1955,5,17
+Benjamin Cardozo,1870-05-24,1870,May,24,New York,Male,White,Jewish,New York,Democrat,Herbert Hoover,,,1932-03-14,1932,March,14,1938-07-09,1938,July,9,1938-07-09,1938,7,9
+Hugo Black,1886-02-27,1886,February,27,Alabama,Male,White,Baptist,Alabama,Democrat,Franklin Roosevelt,63.0,16.0,1937-08-19,1937,August,19,1971-09-17,1971,September,17,1971-09-25,1971,9,25
+Stanley Reed,1884-12-31,1884,December,31,Kentucky,Male,White, Protestant,Kentucky,Democrat,Franklin Roosevelt,,,1938-01-31,1938,January,31,1957-02-25,1957,February,25,1980-04-02,1980,4,2
+Felix Frankfurter,1882-11-15,1882,November,15,nan,Male,White,Jewish,Massachusetts,Independent,Franklin Roosevelt,,,1939-01-30,1939,January,30,1962-08-28,1962,August,28,1965-02-22,1965,2,22
+William Douglas,1898-10-16,1898,October,16,Minnesota,Male,White, Presbyterian,Connecticut,Democrat,Franklin Roosevelt,62.0,4.0,1939-04-17,1939,April,17,1975-11-12,1975,November,12,1980-01-19,1980,1,19
+Francis Murphy,1890-04-13,1890,April,13,Michigan,Male,White, Roman Catholic,Michigan,Democrat,Franklin Roosevelt,,,1940-02-05,1940,February,5,1949-07-19,1949,July,19,1949-07-19,1949,7,19
+James Byrnes,1879-05-02,1879,May,2,South Carolina,Male,White,Episcopalian,South Carolina,Democrat,Franklin Roosevelt,,,1941-07-08,1941,July,8,1942-10-03,1942,October,3,1972-04-09,1972,4,9
+Robert Jackson,1892-02-13,1892,February,13,Pennsylvania,Male,White,Episcopalian,New York,Democrat,Franklin Roosevelt,,,1941-07-11,1941,July,11,1954-10-09,1954,October,9,1954-10-09,1954,10,9
+Wiley Rutledge,1894-07-20,1894,July,20,Kentucky,Male,White, Unitarian,Iowa,Democrat,Franklin Roosevelt,,,1943-02-15,1943,February,15,1949-09-10,1949,September,10,1949-09-10,1949,9,10
+Harold Burton,1888-06-22,1888,June,22,Massachusetts,Male,White, Unitarian,Ohio,Republican,Hary Truman,,,1945-10-01,1945,October,1,1958-10-13,1958,October,13,1964-10-28,1964,10,28
+Fred Vinson,1890-01-22,1890,January,22,Kentucky,Male,White,Methodist,Kentucky,Democrat,Hary Truman,,,1946-06-24,1946,June,24,1953-09-08,1953,September,8,1953-09-08,1953,9,8
+Tom Clark,1899-09-23,1899,September,23,Texas,Male,White, Presbyterian,Texas,Democrat,Hary Truman,73.0,8.0,1949-08-24,1949,August,24,1967-06-12,1967,June,12,1977-06-13,1977,6,13
+Sherman Minton,1890-10-20,1890,October,20,Indiana,Male,White, Protestant,Indiana,Democrat,Hary Truman,48.0,16.0,1949-10-12,1949,October,12,1956-10-15,1956,October,15,1965-04-09,1965,4,9
+Earl Warren,1891-03-19,1891,March,19,California,Male,White, Protestant,California,Republican,Dwight Eisenhower,,,1953-10-05,1953,October,5,1969-06-23,1969,June,23,1974-07-09,1974,7,9
+John Harlan (II),1899-05-20,1899,May,20,Illinois,Male,White, Presbyterian,New York,Republican,Dwight Eisenhower,71.0,11.0,1955-03-28,1955,March,28,1971-09-23,1971,September,23,1971-12-29,1971,12,29
+William Brennan,1906-04-25,1906,April,25,New Jersey,Male,White, Roman Catholic,New Jersey,Democrat,Dwight Eisenhower,,,1956-10-16,1956,October,16,1990-07-20,1990,July,20,1997-07-24,1997,7,24
+Charles Whittaker,1901-02-22,1901,February,22,Kansas,Male,White,Methodist,Missouri,Republican,Dwight Eisenhower,,,1957-03-25,1957,March,25,1962-03-31,1962,March,31,1973-11-26,1973,11,26
+Potter Stewart,1915-01-23,1915,January,23,Michigan,Male,White,Episcopalian,Ohio,Republican,Dwight Eisenhower,,,1958-10-14,1958,October,14,1981-07-03,1981,July,3,1985-12-07,1985,12,7
+Byron White,1917-06-08,1917,June,8,Colorado,Male,White,Episcopalian,Colorado,Democrat,John Kennedy,,,1962-04-16,1962,April,16,1993-06-28,1993,June,28,2002-04-15,2002,4,15
+Arthur Goldberg,1908-08-08,1908,August,8,Illinois,Male,White,Jewish,Illinois,Democrat,John Kennedy,,,1962-10-01,1962,October,1,1965-07-25,1965,July,25,1990-01-19,1990,1,19
+Abe Fortas,1910-06-19,1910,June,19,Tennessee,Male,White,Jewish,Tennessee,Democrat,Lyndon Johnson,,,1965-10-04,1965,October,4,1969-05-14,1969,May,14,1982-04-05,1982,4,5
+Thurgood Marshall,1908-07-02,1908,July,2,Maryland,Male,Black,Episcopalian,New York,Democrat,Lyndon Johnson,69.0,11.0,1967-10-02,1967,October,2,1991-10-01,1991,October,1,1993-01-24,1993,1,24
+Warren Burger,1907-09-17,1907,September,17,Minnesota,Male,White, Presbyterian,Virginia,Republican,Richard Nixon,74.0,3.0,1969-06-23,1969,June,23,1986-09-26,1986,September,26,1995-06-25,1995,6,25
+Harry Blackmun,1908-11-12,1908,November,12,Illinois,Male,White,Methodist,Minnesota,Republican,Richard Nixon,94.0,0.0,1970-06-09,1970,June,9,1994-08-03,1994,August,3,1999-03-04,1999,3,4
+Lewis Powell,1907-09-19,1907,September,19,Virginia,Male,White, Presbyterian,Virginia,Democrat,Richard Nixon,89.0,1.0,1972-01-07,1972,January,7,1987-06-26,1987,June,26,1998-08-25,1998,8,25
+William Rehnquist,1924-10-01,1924,October,1,Wisconsin,Male,White,Lutheran,Arizona,Republican,Richard Nixon,68.0,26.0,1972-01-07,1972,January,7,2005-09-03,2005,September,3,2005-09-03,2005,9,3
+John Stevens,1920-04-20,1920,April,20,Illinois,Male,White, Protestant,Illinois,Republican,Gerald Ford,98.0,0.0,1975-12-19,1975,December,19,2010-06-30,2010,June,30,2019-07-16,2019,7,16
+Sandra O'Connor,1930-03-26,1930,March,26,Texas,Female,White,Episcopalian,Arizona,Republican,Ronald Reagan,99.0,0.0,1981-09-25,1981,September,25,2006-01-31,2006,January,31,nan,nan,nan,nan
+Antonin Scalia,1936-03-11,1936,March,11,New Jersey,Male,White, Roman Catholic,Virginia,Republican,Ronald Reagan,98.0,0.0,1986-09-26,1986,September,26,2016-02-13,2016,February,13,2016-02-13,2016,2,13
+Anthony Kennedy,1936-07-23,1936,July,23,California,Male,White, Roman Catholic,California,Republican,Ronald Reagan,97.0,0.0,1988-02-18,1988,February,18,2018-07-31,2018,July,31,nan,nan,nan,nan
+David Souter,1939-09-17,1939,September,17,Massachusetts,Male,White,Episcopalian,New Hampshire,Republican,George H.W. Bush,90.0,9.0,1990-10-09,1990,October,9,2009-06-30,2009,June,30,nan,nan,nan,nan
+Clarence Thomas,1948-06-23,1948,June,23,Georgia,Male,Black, Roman Catholic,Georgia,Republican,George H.W. Bush,52.0,48.0,1991-10-23,1991,October,23,nan,nan,nan,nan,nan,nan,nan,nan
+Ruth Ginsburg,1933-03-15,1933,March,15,New York,Female,White,Jewish,New York,Democrat,Bill Clinton,96.0,3.0,1993-08-10,1993,August,10,2020-09-18,2020,September,18,2020-09-18,2020,9,18
+Stephen Breyer,1938-08-15,1938,August,15,California,Male,White,Jewish,Massachusetts,Democrat,Bill Clinton,87.0,9.0,1994-08-03,1994,August,3,nan,nan,nan,nan,nan,nan,nan,nan
+John Roberts,1955-01-27,1955,January,27,New York,Male,White, Roman Catholic,Maryland,Republican,George W. Bush,78.0,22.0,2005-09-29,2005,September,29,nan,nan,nan,nan,nan,nan,nan,nan
+Samuel Alito,1950-04-01,1950,April,1,New Jersey,Male,White, Roman Catholic,New Jersey,Republican,George W. Bush,58.0,42.0,2006-01-31,2006,January,31,nan,nan,nan,nan,nan,nan,nan,nan
+Sonia Sotomayor,1954-06-25,1954,June,25,New York,Female,Hispanic, Roman Catholic,New York,Democrat,Barack Obama,68.0,31.0,2009-09-09,2009,September,9,nan,nan,nan,nan,nan,nan,nan,nan
+Elena Kagan,1960-04-08,1960,April,8,New York,Female,White,Jewish,Massachusetts,Democrat,Barack Obama,63.0,37.0,2010-08-07,2010,August,7,nan,nan,nan,nan,nan,nan,nan,nan
+Neil Gorsuch,1967-08-29,1967,August,29,Colorado,Male,White,Episcopalian,Colorado,Republican,Donald Trump,54.0,45.0,2017-04-10,2017,April,10,nan,nan,nan,nan,nan,nan,nan,nan
+Brett Kavanaugh,1965-02-12,1965,February,12,District of Columbia,Male,White, Roman Catholic,Maryland,Republican,Donald Trump,50.0,48.0,2018-10-06,2018,October,6,nan,nan,nan,nan,nan,nan,nan,nan
+Amy Barrett,1972-01-28,1972,January,28,Louisiana,Female,White,Roman Catholic,Indiana,Republican,Donald Trump,52.0,48.0,2020-10-27,2020,October,27,nan,nan,nan,nan,nan,nan,nan,nan
