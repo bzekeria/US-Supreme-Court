@@ -14,6 +14,4 @@ Analysis of the US Supreme Court
           - [Interactive Viewing](https://nbviewer.jupyter.org/github/bzekeria/US-Supreme-Court/blob/main/Demographics/US%20Supreme%20Court%20Demographics%20Part%202%20%28EDA%29.ipynb)
           - User defined functions to calculate the amount of years
           - Graphical representation for the goal of this analysis
-     6. "Supreme Court Demgraphics Part 3 (Statistical Analysis)" (TBA)
-
-**beginner to the world of data analytics**
+   
